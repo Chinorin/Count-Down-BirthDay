@@ -9,7 +9,7 @@ This countdown will dynamically calculate the remaining time until **December 4t
 ## 📸 Preview
 
 <p align="center">
-  <img src="preview.png" width="500" />
+  <img src="preview.gif" width="500" />
 </p>
 
 > 💡 **Based on the preview image, you can customize the code for your own special day** such as an anniversary, New Year's Eve, or any meaningful event (this is just my fav character birthday).
