@@ -2,7 +2,7 @@
 
 A simple countdown timer to your next birthday, built with **HTML**, **CSS**, and **JavaScript**.
 
-This countdown will dynamically calculate the remaining time until **December 4th** of this year — perfect for celebrating your special day! 🎂
+This countdown will dynamically calculate the remaining time until **Me Special Day* of this year — perfect for celebrating your special day! 🎂
 
 ---
 
