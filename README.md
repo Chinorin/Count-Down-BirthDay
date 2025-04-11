@@ -21,7 +21,7 @@ This countdown will dynamically calculate the remaining time until **December 4t
 - ⏳ Real-time countdown to your next birthday
 - 📆 Automatically adjusts to the current year
 - 🕒 Shows days, hours, minutes, and seconds
-- 
+  
 ---
 
 ## 🧠 How It Works
